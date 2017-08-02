@@ -1,6 +1,6 @@
 <h1>
 <<<<<<< HEAD
-Hell yeeah
+fuck yeah
 =======
 <body>
 This is branch 1 
